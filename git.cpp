@@ -6,7 +6,7 @@ C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
-/*好逻辑 */
+/*新增苹果的 git4添加*/
 #include <iostream>
 #include <malloc.h>
 #include <cstring>  
